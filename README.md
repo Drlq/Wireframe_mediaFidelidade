@@ -1,0 +1,1 @@
+Elaborei um wireframe de média fidelidade da home de um portfólio de um profissional autônomo. Utilizei tons de cinza e para destacar link, utilizei a cor azul.
